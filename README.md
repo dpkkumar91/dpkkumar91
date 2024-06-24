@@ -1,4 +1,4 @@
-  <b>"Merging art and science, I mold complex data into valuable bussiness insights"</b>
+  <b>"Merging art and science, I mold complex data into elegant narratives of clarity and valuable bussiness insights"</b>
 
 - 👋 Hi, I’m Deepak Kumar
 - 👀 I’m Data Scientist/Analyst
